@@ -7,8 +7,8 @@
       <label for="password">Password:
       <input v-model="formData.password" type="password" name="password" value></label>
 
-      <button type="submit" value="submit">Login</button>
-      <button type="button" value="logout">Logout</button>
+      <button type="submit" value="submit">LOGIN</button>
+      <button type="button" value="logout">LOGOUT</button>
     </form>
   </div>
 </template>
